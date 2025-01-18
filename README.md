@@ -2,7 +2,7 @@
 
 In this project, we focus on the comparison of Java and Python - within the frameworks of ARM and x86 architectures. With the goal of comparing the two languages with the different architectures, we plan to find the differences of different runtimes, how much each cost, the performance, and so on.
 
-- RUNNING THE CODE:
+RUNNING THE CODE:
 
 ALL database RDS information is hard-coded into the projects. You will have to edit the source code files and change the variables where the database information is stored.
 
